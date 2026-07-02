@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shadow_of_killing:orange_crystal",
+  "key": {
+    "#": {
+      "item": "shadow_of_killing:orange_crystal_scrap"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "shadow_of_killing:orange_crystal"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "type": "shadow_of_killing:exclude_nether_end_ore",
+  "features": "shadow_of_killing:ore_orange_crystal",
+  "step": "underground_ores"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "shadow_of_killing:block/dark_iron_block"
+  }
+}

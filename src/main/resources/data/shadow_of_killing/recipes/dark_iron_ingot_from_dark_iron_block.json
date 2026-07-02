@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "shadow_of_killing:dark_iron_ingot",
+  "ingredients": [
+    {
+      "item": "shadow_of_killing:dark_iron_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "shadow_of_killing:dark_iron_ingot"
+
+  }
+}

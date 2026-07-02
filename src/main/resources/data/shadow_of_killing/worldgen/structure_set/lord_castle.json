@@ -1,0 +1,15 @@
+{
+  "placement": {
+    "salt": 1035228837,
+    "separation": 60,
+    "type": "minecraft:random_spread",
+    "spacing": 120
+  },
+  "structures": [
+  {
+    "weight": 1,
+    "structure": "shadow_of_killing:lord_castle"
+
+  }
+]
+}

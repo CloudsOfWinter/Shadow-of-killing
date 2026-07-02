@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#shadow_of_killing:has_structure/lord_castle",
+  "use_expansion_hack": false,
+  "start_pool": "shadow_of_killing:lord_castle/start_pool",
+  "size": 1,
+  "start_height": {
+  "absolute": 0
+},
+  "terrain_adaptation": "beard_thin",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "max_distance_from_center": 80,
+  "project_start_to_heightmap": "WORLD_SURFACE_WG"
+}

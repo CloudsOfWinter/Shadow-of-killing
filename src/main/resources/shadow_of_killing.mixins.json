@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.clouds_of_winter.shadow_of_killing.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "shadow_of_killing.refmap.json",
+  "mixins": [
+    "VillagerHostilesSensorMixin",
+    "WanderingTraderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

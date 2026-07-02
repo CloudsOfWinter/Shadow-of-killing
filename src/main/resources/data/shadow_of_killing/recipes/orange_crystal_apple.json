@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "shadow_of_killing:orange_crystal_scrap"
+    },
+    "X": {
+      "item": "minecraft:apple"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "item": "shadow_of_killing:orange_crystal_apple"
+  }
+}

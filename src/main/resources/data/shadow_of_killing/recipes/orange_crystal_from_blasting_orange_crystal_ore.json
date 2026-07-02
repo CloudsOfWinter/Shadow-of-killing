@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 5.0,
+  "group": "shadow_of_killing:orange_crystal",
+  "ingredient": {
+    "item": "shadow_of_killing:orange_crystal_ore"
+  },
+  "result": "shadow_of_killing:orange_crystal"
+}

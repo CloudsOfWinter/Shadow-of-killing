@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 10.0,
+  "cookingtime": 1200,
+  "ingredient": [
+    {
+      "item": "shadow_of_killing:orange_crystal_pickaxe"
+    },
+    {
+      "item": "shadow_of_killing:orange_crystal_shovel"
+    },
+    {
+      "item": "shadow_of_killing:orange_crystal_axe"
+    },
+    {
+      "item": "shadow_of_killing:orange_crystal_hoe"
+    },
+    {
+      "item": "shadow_of_killing:orange_crystal_sword"
+    },
+    {
+      "item": "shadow_of_killing:orange_crystal_helmet"
+    },
+    {
+      "item": "shadow_of_killing:orange_crystal_chestplate"
+    },
+    {
+      "item": "shadow_of_killing:orange_crystal_leggings"
+    },
+    {
+      "item": "shadow_of_killing:orange_crystal_boots"
+    }
+  ],
+  "result": "shadow_of_killing:orange_crystal_scrap"
+}

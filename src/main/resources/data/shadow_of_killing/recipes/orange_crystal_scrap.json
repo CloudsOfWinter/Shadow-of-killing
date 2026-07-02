@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "shadow_of_killing:orange_crystal"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "shadow_of_killing:orange_crystal_scrap"
+  }
+}

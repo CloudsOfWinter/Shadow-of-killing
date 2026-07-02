@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[0,)"
+license = "MIT License"
+
+[[mods]]
+modId="shadow_of_killing"
+version="0.0.1"
+displayName="Shadow of Killing"
+logoFile="logo.png"
+authors="Clouds of Winter"
+description='''
+The undead army is roaming in this world.
+Be careful, as every attack from these monsters can easily be fatal.
+Every action you take should be cautious in order to have a chance of survival.
+But don't be too tense; some powerful new minerals have been discovered.
+Equipment made from these minerals will aid us in battle.
+I wish you victory in this showdown against the monsters.
+'''
+
+[[dependencies.shadow_of_killing]]
+    modId="forge"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.shadow_of_killing]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.1,1.19.3)"
+    ordering="NONE"
+    side="BOTH"

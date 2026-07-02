@@ -1,0 +1,14 @@
+{
+  "values": [
+    "shadow_of_killing:elite_wither_zombie",
+    "shadow_of_killing:elite_wither_zombie_archer",
+    "shadow_of_killing:wither_zombie",
+    "shadow_of_killing:wither_zombie_archer",
+    "shadow_of_killing:wither_zombie_guard",
+    "shadow_of_killing:elite_skeleton_zombie",
+    "shadow_of_killing:elite_skeleton_zombie_archer",
+    "shadow_of_killing:skeleton_zombie",
+    "shadow_of_killing:skeleton_zombie_archer",
+    "shadow_of_killing:skeleton_zombie_guard"
+  ]
+}

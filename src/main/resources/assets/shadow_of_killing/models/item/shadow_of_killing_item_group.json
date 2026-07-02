@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "shadow_of_killing:item/shadow_of_killing_item_group"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "shadow_of_killing:dark_iron_ingot",
+  "ingredient": {
+    "item": "shadow_of_killing:dark_iron_ore"
+  },
+  "result": "shadow_of_killing:dark_iron_ingot"
+}

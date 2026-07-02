@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "X": {
+      "item": "shadow_of_killing:orange_crystal"
+    }
+  },
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "shadow_of_killing:orange_crystal_pickaxe"
+  }
+}

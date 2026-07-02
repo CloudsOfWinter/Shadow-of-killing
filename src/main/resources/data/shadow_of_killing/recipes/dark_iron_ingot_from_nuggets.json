@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shadow_of_killing:dark_iron_ingot",
+  "key": {
+    "#": {
+      "item": "shadow_of_killing:dark_iron_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "shadow_of_killing:dark_iron_ingot"
+  }
+}
